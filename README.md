@@ -34,7 +34,7 @@ Anime trending & movie web app built with React.
 ## 📫 Connect With Me
 - GitHub: https://github.com/iflex-lakshya-mishra
 - 
-- Email: your-email-lakshyamishra204@gmail.com
+- Email:lakshyamishra204@gmail.com
 
 ---
 
