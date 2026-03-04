@@ -10,6 +10,7 @@ Welcome to My GitHub 🚀 I'm Lakshya Mishra
 - 💡 Love building modern UI with Tailwind CSS
 - 🎯 Goal: Become a Professional Full Stack Developer
 - ⚡ Fun fact: I debug faster with anime music 🎧🔥
+- 🤖 I use AI tools to enhance productivity and improve development workflow.
 
 ---
 
@@ -17,7 +18,6 @@ Welcome to My GitHub 🚀 I'm Lakshya Mishra
 - ⚛️ React.js
 - 🎨 Tailwind CSS
 - 🌐 HTML5 | CSS3 | JavaScript
-- 🔥 Vercel Deployment
 - 🗂️ Git & GitHub
 
 ---
