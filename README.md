@@ -5,7 +5,7 @@ Welcome to My GitHub 🚀 I'm Lakshya Mishra
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **OtakuFlix (Anime Streaming UI Project)**
+- 🔭 Currently working on ** ( Streaming UI Project)**
 - 🌱 Learning **Advanced React & Full Stack Development**
 - 💡 Love building modern UI with Tailwind CSS
 - 🎯 Goal: Become a Professional Full Stack Developer
