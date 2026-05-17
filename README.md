@@ -26,8 +26,8 @@ Welcome to My GitHub 🚀 I'm Lakshya Mishra
 ### 🎬 OtakuFlix
 Anime trending & movie web app built with React.
 
-🔗 Live: https://otakuflix-web.vercel.app  
-📂 Repo: https://github.com/iflex-lakshya-mishra/otakuflix-web
+🔗 Live: https://moviehub-live.vercel.app/home  
+
 
 ---
 
