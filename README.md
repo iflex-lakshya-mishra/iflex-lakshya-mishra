@@ -41,7 +41,7 @@ A clean, minimal todo app built with Expo, React Native and TypeScript.
 ## 📫 Connect With Me
 
 - 📧 Email: [lakshyamishra204@gmail.com](mailto:lakshyamishra204@gmail.com)
-- 💼 LinkedIn: [Lakshya Mishra](https://www.linkedin.com/in/lakshya-mishra-69a52b331)
+- - 💼 LinkedIn: [Lakshya Mishra](https://www.linkedin.com/in/lakshya-mishra-dev)
 - 🐙 GitHub: [iflex-lakshya-mishra](https://github.com/iflex-lakshya-mishra)
 
 ⭐ If you like my work, consider starring my repositories!
