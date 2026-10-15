@@ -1,41 +1,47 @@
-Welcome to My GitHub 🚀 I'm Lakshya Mishra
+# Hi, I'm Lakshya Mishra 👋
 
-🚀 Frontend Developer | React Enthusiast 
+**Full-Stack Developer | React, Next.js, Node/Express, MongoDB | React Native | Freelance**
 
----
-
-## 👨‍💻 About Me
-- 🔭 Currently working on ** ( Streaming UI Project)**
-- 🌱 Learning **Advanced React & Full Stack Development**
-- 💡 Love building modern UI with Tailwind CSS
-- 🎯 Goal: Become a Professional Full Stack Developer
-- ⚡ Fun fact: I debug faster with anime music 🎧🔥
-- 🤖 I use AI tools to enhance productivity and improve development workflow.
+BCA student from Varanasi, building web and mobile apps. Open to freelance projects.
 
 ---
 
 ## 🛠️ Tech Stack
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 🌐 HTML5 | CSS3 | JavaScript
-- 🗂️ Git & GitHub
+
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript
+**Backend:** Node.js, Express.js, PHP
+**Database:** MongoDB, MySQL, Firebase
+**Mobile:** React Native (Expo)
+**Tools:** Git, GitHub, Vercel
 
 ---
 
-## 🚀 Featured Project
-### 🎬 OtakuFlix
-Anime trending & movie web app built with React.
+## 🚀 Projects
 
-🔗 Live: https://moviehub-live.vercel.app/home  
+### 🎬 [MovieHub](https://github.com/iflex-lakshya-mishra/MovieHub)
+Movie and anime discovery app built with React and Vite.
+🔗 Live: [moviehub-live.vercel.app](https://moviehub-live.vercel.app/home)
 
+### 💬 [Quark](https://github.com/iflex-lakshya-mishra/Quark)
+Community-driven social platform where users can chat, share posts, and discover new content.
+
+### ✅ [Taskly](https://github.com/iflex-lakshya-mishra/Taskly)
+A clean, minimal todo app built with Expo, React Native and TypeScript.
+
+---
+
+## 🌱 Currently
+
+- Building full-stack projects with the MERN stack
+- Learning advanced React and Next.js
+- Taking on freelance web and mobile app projects
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/iflex-lakshya-mishra
-- 
-- Email:lakshyamishra204@gmail.com
 
----
+- 📧 Email: [lakshyamishra204@gmail.com](mailto:lakshyamishra204@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/lakshya-mishra-69a52b331]
+- 🐙 GitHub: [iflex-lakshya-mishra](https://github.com/iflex-lakshya-mishra)
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, consider starring my repositories!
