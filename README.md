@@ -1,4 +1,4 @@
-# Hi, I'm Lakshya Mishra 👋
+# Hi, I'm Lakshya Mishra 
 
 **Full-Stack Developer | React, Next.js, Node/Express, MongoDB | React Native | Freelance**
 
